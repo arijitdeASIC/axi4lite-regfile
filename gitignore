@@ -1,0 +1,18 @@
+# Questa / ModelSim
+work/
+transcript
+vsim.wlf
+modelsim.ini
+*.mti_lock
+.qwave.db
+wlft*
+
+# Coverage
+*.ucdb
+covhtmlreport/
+
+# Editor
+*~
+*.swp
+.vscode/
+.idea/
